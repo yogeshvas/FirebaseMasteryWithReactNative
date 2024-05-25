@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878121744849",
+    "project_id": "react-native-dream-93176",
+    "storage_bucket": "react-native-dream-93176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878121744849:android:2070334165b8618ed988f0",
+        "android_client_info": {
+          "package_name": "com.rnfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878121744849-sdh4l6p3p9bvnivscctmrdrs9fhhhe47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnfb",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "878121744849-qrffvvmdnms5vrthol94sntv00hml3b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaIL5OBFLgbZkeR3540LyZPA-eo_6kfiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878121744849-qrffvvmdnms5vrthol94sntv00hml3b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
